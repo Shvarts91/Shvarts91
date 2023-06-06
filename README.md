@@ -1,6 +1,6 @@
 ### Hi there 👋 Some my projects
 1. [Social network (React)  React, Redux, Hooks, JS, CSS-module, Formik, Material UI](https://github.com/Shvarts91/react-project "Social network (React)  React, Redux, Hooks, JS, CSS-module, Formik, Material UI")
-2. [Calories-counter](https://inquisitive-smakager-a8cafa.netlify.app/ "Calories-counter")
+2. [Calories-counter (React) ](https://inquisitive-smakager-a8cafa.netlify.app/ "Calories-counter")
 3. [Todo App (React) ](https://majestic-empanada-50fcdf.netlify.app "Todo App (React) ")
 4. [Currency converter (React.js)](https://incomparable-dasik-29ed5d.netlify.app/ "Currency converter (React.js)")
 5. [Password Generator (React)](https://storied-smakager-da2311.netlify.app/ "Password Generator (React)")
